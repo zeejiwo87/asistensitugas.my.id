@@ -169,7 +169,7 @@ ${message || "-"}
               </div>
               <div className="flex items-center gap-2 text-[11px] text-slate-400">
                 <Mail className="h-3.5 w-3.5" />
-                <span>Email: (isi sendiri bila diperlukan)</span>
+                <span>Email: Fauzyuji87@gmail.com</span>
               </div>
             </div>
           </div>

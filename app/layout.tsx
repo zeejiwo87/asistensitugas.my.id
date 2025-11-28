@@ -12,6 +12,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  // domain barumu
   metadataBase: new URL("https://asistensitugas.my.id"),
   title: "Asistensitugas.id – Asistensi Tugas, Website, & Aplikasi Premium",
   description:
@@ -25,7 +26,7 @@ export const metadata: Metadata = {
     title: "Asistensitugas.id – Asistensi Tugas, Website, & Aplikasi Premium",
     description:
       "Asistensi tugas, pembuatan website profesional, dan akun aplikasi premium dalam satu tempat.",
-    url: "https://asistensitugas.my.id",
+    url: "https://asistensitugas.web.id",
     siteName: "Asistensitugas.id",
     images: [
       {
